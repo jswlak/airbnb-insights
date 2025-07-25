@@ -20,7 +20,7 @@ This project uses an Airbnb listings dataset originally sourced from **Kaggle**.
 2. Search for "**Airbnb Listings**" or "**Airbnb Open Data**"
 3. Download the dataset manually
 4. Save the main CSV file in the following location:
-data/airbnb.csv
+    data/airbnb.csv
 
 or vist the below link (drive)
 
@@ -36,19 +36,19 @@ You can also refer to `data/README.txt` for instructions.
 
 ## 📁 Project Structure
 
-airbnb-data-visualization/
-├── data/ → Dataset storage (CSV not included)
-│ └── README.txt → Instructions to download the data
-│
-├── notebooks/ → Jupyter notebooks for EDA
-│ └── exploratory_analysis.ipynb
-│
-├── visuals/ → Generated plots/images
-│ └── heatmap.html
-│
-├── requirements.txt → Python dependencies
-├── .gitignore → Files to ignore during Git tracking
-└── README.md → Project documentation
+    airbnb-data-visualization/
+    ├── data/ → Dataset storage (CSV not included)
+    │ └── dataset.txt → Instructions to download the data
+    │
+    ├── notebooks/ → Jupyter notebooks for EDA
+    │ └── exploratory_analysis.ipynb
+    │
+    ├── visuals/ → Generated plots/images
+    │ └── heatmap.html
+    │
+    ├── requirements.txt → Python dependencies
+    ├── .gitignore → Files to ignore during Git tracking
+    └── README.md → Project documentation
 
 
 
